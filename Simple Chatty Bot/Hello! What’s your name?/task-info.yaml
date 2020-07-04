@@ -61,12 +61,9 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/projects/95/stages/524/implement
-status: Failed
+status: Solved
 feedback:
-  message: |-
-    Wrong answer in test #1
-
-    You should output exactly 2 lines!
-    Lines found: 1
-  time: Sat, 04 Jul 2020 04:19:09 UTC
+  message: Congratulations! Continue on <a href="https://hyperskill.org/projects/95/stages/524/implement">JetBrains
+    Academy</a>
+  time: Sat, 04 Jul 2020 04:29:41 UTC
 record: -1
